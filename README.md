@@ -1,7 +1,7 @@
 # 1204056954
 My first GitHub repo
 
-Student: Chen, Liyang Number: 218523683 Source: https://github.com/clycly-ai/2913874040 Date: 2022.6.9
+Student: Chen, Liyang Number: 218523683 Source: https://github.com/clycly-ai/1204056954 Date: 2022.6.9
 
 This README is used to outline Assessment 3 of SLE712.
 
